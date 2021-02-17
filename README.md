@@ -6,22 +6,19 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-Final project for the Building AI course
-
-ELECTRIC WHEELCHAIR SYSTEM
+ELECTRIC WHEELCHAIR SYSTEM WITH SOLAR OPTION
 
 ## Summary
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
-It's no surprise that with advancement of technology, there's need for faster and efficient ways for disable to move around. Introduction of electric wheelchair brought all that but with some setbacks. My idea is to create a wheelchair which is more efficient in it's electric usage and able to go more mileage by regenerating it's own power which propels it further. Being disabled in a world where things seem to go fast, we need to keep up with it. Electric wheelchairs are a darling. It's easier to go up ramps, go long distances without getting tired cause the systems efficient.
+It's no surprise that with advancement of technology, there's need for faster and efficient ways for disable to move around. Introduction of electric wheelchair brought all that but with some setbacks. My idea is to create a wheelchair which is more efficient in it's electric usage and able to go more mileage by regenerating it's own power which propels it further and a solar backup. Being disabled in a world where things seem to go fast, we need to keep up with it. Electric wheelchairs are a darling but there are areas where there isn't access to electricity hence with the inception of solar it reaches a wider population even in the third worlds cause it will be cheaper to ptoduce such and supply in bulk. It's easier to go up ramps, go long distances without getting tired cause the systems efficient and have an extra source of power.
 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
 * problem 1
 MANOUVRE ALL TERRAINS
 Electric wheelchairs however much good, one short-coming is that it's only good on certain terrains. It's good on flat paths and bumpy on rugged grounds. I want to create a wheelchair that will be effient on all terrains purposed to be suitable on all terrains so that a isable dperson can easily access all areas where one needs to be.
@@ -34,14 +31,19 @@ Electric wheelchairs go as far as there b\ttery can hold. Mostly that's barely 1
 POWER CONSUMPTION EFFICIENCY
 Electric wheelchair are reliant on the electric energy stored to help move. With this new innovation, it helps the wheelchair utilize well it's stored energy. On slopes ,the wheelchair will make use of gravity ie free fall to propel the wheelchair downslope.
 
+* problem 4
+VARIETY SOURCES OF POWER
+With this new invention, the wheelchair is not relient on electricity cause it can be charged by solar. In most parts of the country sun is available throughout the year hence its reliable and can easily suppliment the need of electricty.
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+This electric wheelchair sytem will be used by people from all terrains cause it's well adapted to all areas. It can be charged with sunlight due to its ability to use solar this has helped even the unpriviledged get to use the eletric and solar wheelchair. This solution is better for all environments since that all areas have an access to sunlight even though they might not have electricty.
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
@@ -67,8 +69,29 @@ main()
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+
+Most of my data comes from observation and interviewing some disables on wheelchair and those on electric wheelchair. I'm also physically disabled so i suited an idea to try and help alleviate all what i go through in a day to day rolling basis. I collect the data myself and with the use of the internet it's become very possible to work on the whole project.
+
+References include:-
+
+Americans with Disabilities 2010, U.S. Census Bureau, http://www.census.gov/prod/2012pubs/p70-131.pdf
+Wilson PE. Seating Evaluation and Wheelchair Prescription. http://emedicine.medscape.com/article/318092-overview
+Di Marco A, Russell,M, Masters M. Standards for wheelchair prescription. Australian Occupational Therapy Journal. 2003;50:30-39.
+Sabol TP, Heley ES. Wheelchair evaluation for the older adult. Clin Geriatr Emd. 2006; 22:355-375.
+Position Papers and Guides. http://www.resna.org/resources/position_papers.dot
+Dicianno BE, Schmeler M, Liu BY. “Wheelchairs/Adaptive Mobility Equipment and Seating.” Spinal Cord Medicine, 2nd Ed. Kirschblum S, Campagnolo DI. Philadelphia: Lippincott Williams & Wilkins, 2011. 341-358.
+Worobey L, Oyster M, Nemunaitis G, Cooper R, Boninger ML. Increases in wheelchair breakdowns, repairs, and adverse consequences for people with traumatic spinal cord injury. Am J Phys Med Rehabil. 2012 Jun;91(6):463-9.
+Hunt PC, Boninger ML, Cooper RA, Zafonte RD, Fitzgerald SG, Schmeler MR. Demographic and socioeconomic factors associated with disparity in wheelchair customizability among people with traumatic spinal cord injury. Arch Phys Med Rehabil. 2004 Nov; 85(11):1859-64.
+Power Mobility Device Face-to-Face Examination Checklist. Department of Health and Human Services, Centers for Medicare & Medicaid Services. 2010. https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNMattersArticles/downloads/se1112.pdf
+Winkler SL, Romero S, Prather E, Ramroop M, Slaibe E, Christensen M. Innovative Power Wheelchair Control Interface: A Proof-of-Concept Study. Am J Occup Ther. 2016 Mar-Apr;70(2)
+Wästlund E, Sponseller K, Pettersson O, Bared A. Evaluating gaze-driven power wheelchair with navigation support for persons with disabilities. J Rehabil Res Dev. 2015;52(7):815-26
+Padir T. Towards personalized smart wheelchairs: Lessons learned from discovery interviews. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:5016-9.
+Daveler B, Salatin B, Grindle GG, Candiotti J, Wang H, Cooper RA. Participatory design and validation of mobility enhancement robotic wheelchair. J Rehabil Res Dev. 2015;52(6):739-50.
+Grindle GG, Wang H, Jeannis H, Teodorski E, Cooper RA. Design and user evaluation of a wheelchair mounted robotic assisted transfer device. Biomed Res Int. 2015;2015:198476
+Madigan EA, Newman WS. What do users want from “smart” wheelchairs? NI 2012 Jun 23;2012:263.
+O
+
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
