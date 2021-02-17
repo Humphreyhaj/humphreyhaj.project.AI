@@ -12,7 +12,7 @@ ELECTRIC WHEELCHAIR SYSTEM WITH SOLAR OPTION
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
-It's no surprise that with advancement of technology, there's need for faster and efficient ways for disable to move around. Introduction of electric wheelchair brought all that but with some setbacks. My idea is to create a wheelchair which is more efficient in it's electric usage and able to go more mileage by regenerating it's own power which propels it further and a solar backup. Being disabled in a world where things seem to go fast, we need to keep up with it. Electric wheelchairs are a darling but there are areas where there isn't access to electricity hence with the inception of solar it reaches a wider population even in the third worlds cause it will be cheaper to ptoduce such and supply in bulk. It's easier to go up ramps, go long distances without getting tired cause the systems efficient and have an extra source of power.
+It's no surprise that with advancement of technology, there's need for faster and efficient ways for disable to move around. Introduction of electric wheelchair brought all that but with some setbacks. My idea is to create a wheelchair which is more efficient in it's electric usage and able to go more mileage by regenerating it's own power which propels it further and a solar backup. Being disabled in a world where things seem to go fast, we need to keep up with it. Electric wheelchairs are a darling but there are areas where there isn't access to electricity hence with the inception of solar it reaches a wider population even in the third worlds cause it will be cheaper to produce such and supply in bulk. It's easier to go up ramps, go long distances without getting tired cause the systems efficient and have an extra source of power. I've also added a ew feature of AI where the wheelchair has reverse parking and when itnhits a wall it reflects ack to the right path. It's got extra sensors to aid in direction and easier navigation.
 
 
 ## Background
@@ -21,11 +21,11 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 
 * problem 1
 MANOUVRE ALL TERRAINS
-Electric wheelchairs however much good, one short-coming is that it's only good on certain terrains. It's good on flat paths and bumpy on rugged grounds. I want to create a wheelchair that will be effient on all terrains purposed to be suitable on all terrains so that a isable dperson can easily access all areas where one needs to be.
+Electric wheelchairs however much good, one short-coming is that it's only good on certain terrains. It's good on flat paths and bumpy on rugged grounds. I want to create a wheelchair that will be effient on all terrains purposed to be suitable on all terrains so that a disabled person can easily access all areas where one needs to be.
 
 * problem 2
 GO LONGER DISTANCES
-Electric wheelchairs go as far as there b\ttery can hold. Mostly that's barely 10 km a day which limit range of one. A common inconvenience is it can seize to move at a place where one leasts expects it hence one becomes stranded. With my new invention or remodification, it seeks to make use of the mechanical energy produced to convert it into kinetic energy and goes on to become electric energy. We will have a dynamo to help with that, this ensures we make full use of the energy we use hence longer distances.
+Electric wheelchairs go as far as there battery can hold. Mostly that's barely 10 km a day which limit range of one. A common inconvenience is it can seize to move at a place where one leasts expects it hence one becomes stranded. With my new invention or remodification, it seeks to make use of the mechanical energy produced to convert it into kinetic energy and goes on to become electric energy. We will have a dynamo to help with that, this ensures we make full use of the energy we use hence longer distances.
 
 * problem 3
 POWER CONSUMPTION EFFICIENCY
