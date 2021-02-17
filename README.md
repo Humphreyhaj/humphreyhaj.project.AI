@@ -8,16 +8,12 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 ELECTRIC WHEELCHAIR SYSTEM WITH SOLAR OPTION
 
-## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+## Summary 
 
 It's no surprise that with advancement of technology, there's need for faster and efficient ways for disable to move around. Introduction of electric wheelchair brought all that but with some setbacks. My idea is to create a wheelchair which is more efficient in it's electric usage and able to go more mileage by regenerating it's own power which propels it further and a solar backup. Being disabled in a world where things seem to go fast, we need to keep up with it. Electric wheelchairs are a darling but there are areas where there isn't access to electricity hence with the inception of solar it reaches a wider population even in the third worlds cause it will be cheaper to produce such and supply in bulk. It's easier to go up ramps, go long distances without getting tired cause the systems efficient and have an extra source of power. I've also added a new feature of AI where the wheelchair has reverse parking and when it hits a wall it reflects ack to the right path. It's got extra sensors to aid in direction and easier navigation.
 
 
 ## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 * problem 1
 MANOUVRE ALL TERRAINS
@@ -37,8 +33,6 @@ With this new invention, the wheelchair is not relient on electricity cause it c
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
 This electric wheelchair sytem will be used by people from all terrains cause it's well adapted to all areas. It can be charged with sunlight due to its ability to use solar this has helped even the unpriviledged get to use the eletric and solar wheelchair. This solution is better for all environments since that all areas have an access to sunlight even though they might not have electricty.
 
 Images will make your README look nice!
@@ -50,27 +44,6 @@ If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://images.app.goo.gl/JmRvZXfZMeUK68i99" width="300">
 <img src="https://images.app.goo.gl/4eUmpP99P8wWUY9s6" width="300">
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 
 Most of my data comes from observation and interviewing some disables on wheelchair and those on electric wheelchair. I'm also physically disabled so i suited an idea to try and help alleviate all what i go through in a day to day rolling basis. I collect the data myself and with the use of the internet it's become very possible to work on the whole project.
 
@@ -101,8 +74,6 @@ O
 | Paragraph   | Text        |
 
 ## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 LIMITATIONS
 
