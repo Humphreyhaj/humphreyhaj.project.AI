@@ -43,10 +43,12 @@ This electric wheelchair sytem will be used by people from all terrains cause it
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-
+https://images.app.goo.gl/JmRvZXfZMeUK68i99
+https://images.app.goo.gl/4eUmpP99P8wWUY9s6
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://images.app.goo.gl/JmRvZXfZMeUK68i99" width="300">
+<img src="https://images.app.goo.gl/4eUmpP99P8wWUY9s6" width="300">
 
 This is how you create code examples:
 ```
@@ -116,24 +118,16 @@ They require regular maintenance. Due to the high machine used, there needs to b
 
 Learning controls can be a learning curve. Unlike the conventional traditional wheelchairs, one needs lots of practise before being able to go long distances.
 
+ETHICAL CONSIDERATIONS
+The aim of creating this ai invention is to enable the disables get around better and efficiently. It's fair and right cause also the disables are human beings and they have right to quality life.
 
-References
-Americans with Disabilities 2010, U.S. Census Bureau, http://www.census.gov/prod/2012pubs/p70-131.pdf
-Wilson PE. Seating Evaluation and Wheelchair Prescription. http://emedicine.medscape.com/article/318092-overview
-Di Marco A, Russell,M, Masters M. Standards for wheelchair prescription. Australian Occupational Therapy Journal. 2003;50:30-39.
-Sabol TP, Heley ES. Wheelchair evaluation for the older adult. Clin Geriatr Emd. 2006; 22:355-375.
-Ding D, Leister E, Cooper RA, et.al. Usage of tilt-in space, recline and elevation seating functions in the natural environment of wheelchair users. J Rehabil Res Dev. 2008;45:973-984.
-Position Papers and Guides. http://www.resna.org/resources/position_papers.dot
-Dicianno BE, Schmeler M, Liu BY. “Wheelchairs/Adaptive Mobility Equipment and Seating.” Spinal Cord Medicine, 2nd Ed. Kirschblum S, Campagnolo DI. Philadelphia: Lippincott Williams & Wilkins, 2011. 341-358.
-Worobey LA, Kirby RL, Heinemann AW, Krobot EA, Dyson-Hudson TA, Cowan RE, Pedersen JP, Shea M, Boninger ML. Effectiveness of Group Wheelchair Skills Training for People With Spinal Cord Injury: A Randomized Controlled Trial. Arch Phys Med Rehabil. 2016 Oct;97(10):1777-1784.e3.
-Worobey L, Oyster M, Nemunaitis G, Cooper R, Boninger ML. Increases in wheelchair breakdowns, repairs, and adverse consequences for people with traumatic spinal cord injury. Am J Phys Med Rehabil. 2012 Jun;91(6):463-9.
-Hunt PC, Boninger ML, Cooper RA, Zafonte RD, Fitzgerald SG, Schmeler MR. Demographic and socioeconomic factors associated with disparity in wheelchair customizability among people with traumatic spinal cord injury. Arch Phys Med Rehabil. 2004 Nov; 85(11):1859-64.
-Power Mobility Devices: Complying with Documentation & Coverage Requirements. Department of Health and Human Services, Centers for Medicare & Medicaid Services. April 2015. https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/pmd_DocCvg_FactSheet_ICN905063.pdf
-Power Mobility Device Face-to-Face Examination Checklist. Department of Health and Human Services, Centers for Medicare & Medicaid Services. 2010. https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNMattersArticles/downloads/se1112.pdf
-Winkler SL, Romero S, Prather E, Ramroop M, Slaibe E, Christensen M. Innovative Power Wheelchair Control Interface: A Proof-of-Concept Study. Am J Occup Ther. 2016 Mar-Apr;70(2)
-Wästlund E, Sponseller K, Pettersson O, Bared A. Evaluating gaze-driven power wheelchair with navigation support for persons with disabilities. J Rehabil Res Dev. 2015;52(7):815-26
-Padir T. Towards personalized smart wheelchairs: Lessons learned from discovery interviews. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:5016-9.
-Daveler B, Salatin B, Grindle GG, Candiotti J, Wang H, Cooper RA. Participatory design and validation of mobility enhancement robotic wheelchair. J Rehabil Res Dev. 2015;52(6):739-50.
-Grindle GG, Wang H, Jeannis H, Teodorski E, Cooper RA. Design and user evaluation of a wheelchair mounted robotic assisted transfer device. Biomed Res Int. 2015;2015:198476
-Madigan EA, Newman WS. What do users want from “smart” wheelchairs? NI 2012 Jun 23;2012:263.
-O
+The benefits and burdens of the research are shared fairly between the disables and equally abled. Cause there will need for considerations in architectural designs of the city to enable path ways that we can easily use. Plans to also build ramps.
+
+There is still a large population of people who haven't taken to the idea of disability hence belittle and cause a lot of stigma to the disables. There has been senstization to help the intergration of disables into the system with companies advocating for increased numbers of disables in workplace. Most workplace have the element of ramps and lifts for disables to better access the facility.
+
+The research was moderate a little bit of intrusive and extrusive. It was intrusive while gathering the likability of wheelchair and how they get around accessing the public toilets to extrusive trying to figure out how it's possible to make there experience better.
+
+
+
+
+
