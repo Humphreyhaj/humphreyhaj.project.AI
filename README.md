@@ -50,19 +50,33 @@ Most of my data comes from observation and interviewing some disables on wheelch
 References include:-
 
 Americans with Disabilities 2010, U.S. Census Bureau, http://www.census.gov/prod/2012pubs/p70-131.pdf
+
 Wilson PE. Seating Evaluation and Wheelchair Prescription. http://emedicine.medscape.com/article/318092-overview
+
 Di Marco A, Russell,M, Masters M. Standards for wheelchair prescription. Australian Occupational Therapy Journal. 2003;50:30-39.
+
 Sabol TP, Heley ES. Wheelchair evaluation for the older adult. Clin Geriatr Emd. 2006; 22:355-375.
+
 Position Papers and Guides. http://www.resna.org/resources/position_papers.dot
+
 Dicianno BE, Schmeler M, Liu BY. “Wheelchairs/Adaptive Mobility Equipment and Seating.” Spinal Cord Medicine, 2nd Ed. Kirschblum S, Campagnolo DI. Philadelphia: Lippincott Williams & Wilkins, 2011. 341-358.
+
 Worobey L, Oyster M, Nemunaitis G, Cooper R, Boninger ML. Increases in wheelchair breakdowns, repairs, and adverse consequences for people with traumatic spinal cord injury. Am J Phys Med Rehabil. 2012 Jun;91(6):463-9.
+
 Hunt PC, Boninger ML, Cooper RA, Zafonte RD, Fitzgerald SG, Schmeler MR. Demographic and socioeconomic factors associated with disparity in wheelchair customizability among people with traumatic spinal cord injury. Arch Phys Med Rehabil. 2004 Nov; 85(11):1859-64.
+
 Power Mobility Device Face-to-Face Examination Checklist. Department of Health and Human Services, Centers for Medicare & Medicaid Services. 2010. https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNMattersArticles/downloads/se1112.pdf
+
 Winkler SL, Romero S, Prather E, Ramroop M, Slaibe E, Christensen M. Innovative Power Wheelchair Control Interface: A Proof-of-Concept Study. Am J Occup Ther. 2016 Mar-Apr;70(2)
+
 Wästlund E, Sponseller K, Pettersson O, Bared A. Evaluating gaze-driven power wheelchair with navigation support for persons with disabilities. J Rehabil Res Dev. 2015;52(7):815-26
+
 Padir T. Towards personalized smart wheelchairs: Lessons learned from discovery interviews. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:5016-9.
+
 Daveler B, Salatin B, Grindle GG, Candiotti J, Wang H, Cooper RA. Participatory design and validation of mobility enhancement robotic wheelchair. J Rehabil Res Dev. 2015;52(6):739-50.
+
 Grindle GG, Wang H, Jeannis H, Teodorski E, Cooper RA. Design and user evaluation of a wheelchair mounted robotic assisted transfer device. Biomed Res Int. 2015;2015:198476
+
 Madigan EA, Newman WS. What do users want from “smart” wheelchairs? NI 2012 Jun 23;2012:263.
 O
 
