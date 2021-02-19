@@ -80,13 +80,6 @@ Grindle GG, Wang H, Jeannis H, Teodorski E, Cooper RA. Design and user evaluatio
 Madigan EA, Newman WS. What do users want from “smart” wheelchairs? NI 2012 Jun 23;2012:263.
 O
 
-
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 ## Challenges
 
 LIMITATIONS
